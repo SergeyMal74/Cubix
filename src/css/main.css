@@ -1,0 +1,22 @@
+
+.tablet {
+    background-color: #ffffff;
+}
+
+.tablet_icon {
+
+}
+
+.tablet_local_text {
+    font-family: sans-serif;
+    font-size: 110%;
+}
+
+.tablet_local_text > tablet_hrefs {
+    color: #24a259;
+}
+
+.tablet_main_text {
+    font-family: sans-serif;
+    font-size: 150%;
+}
